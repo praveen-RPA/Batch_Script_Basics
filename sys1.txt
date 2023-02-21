@@ -1,0 +1,3 @@
+Host Name:                 BLREAS6GB8GH2
+OS Name:                   Microsoft Windows 10 Enterprise
+BIOS Version:              Dell Inc. 1.28.0, 11/17/2022
